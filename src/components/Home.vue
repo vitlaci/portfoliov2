@@ -1,12 +1,7 @@
 <template>
   <div class="tokyo_tm_home">
     <div class="home_content">
-      <div class="avatar">
-        <div
-          class="image avatar_img"
-          :style="{ backgroundImage: 'url(' + src1 + ')' }"
-        ></div>
-      </div>
+      
       <!-- End .avatar -->
       <div class="details">
         <h3 class="name">Laszlo Vitkai</h3>
